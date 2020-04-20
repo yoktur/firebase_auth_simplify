@@ -12,12 +12,10 @@ dependencies:
 
   firebase_auth: ^0.16.0
   cloud_functions: ^0.4.1+8
-  firebase_analytics: ^5.0.10 # Without this, flutter_kakao_login will fail.
 
   provider: ^4.0.2
 
   google_sign_in: ^4.1.1
-  flutter_kakao_login: ^0.7.0
   flutter_facebook_login: ^3.0.0
   http: ^0.12.0+4 # Used for fetching profiles from Facebook GraphAPI
 
